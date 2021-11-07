@@ -9,11 +9,6 @@ import UIKit
 
 
 
-// async neden kullanır ?
-// uzun bir işin bitmesini beklemeden bu işin sonucuna bağımlı olmayan diğer işlere devam edebilmek için kullanılır
-// await neden kullanır  ?
-// async tagi ile sistemde yurutulen işin  işlemini bitirip olumlu sonuc dondugunu anlamak için kullanılır
-
 class ViewController: UIViewController {
 
     @IBOutlet weak var resultImage: UIImageView!
